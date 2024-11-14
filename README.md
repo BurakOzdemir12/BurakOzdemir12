@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently looking for job<br>👯 I’m Open to Work Front or Back end developer roles.<br>🏫 I graduated from Information Technologies<br>💬 Connect with me qburak.ozdemir.0640@gmail.com<br>
+🔭 I’m currently looking for job<br>👯 I’m Open to Work Front or Back end developer roles.<br>🏫 I graduated from Information Technologies<br>💬 Email qburak.ozdemir.0640@gmail.com<br>
 
 
 ## 🌐 Socials:
