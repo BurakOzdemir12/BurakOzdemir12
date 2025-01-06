@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 I'm Burak Özdemir:
 🔭 I’m currently looking for job<br>👯 I’m Open to Work both Front and Back end developer roles.<br>🏫 Graduated from Information Technologies<br>💬 Email qburak.ozdemir.0640@gmail.com<br>
 
 
