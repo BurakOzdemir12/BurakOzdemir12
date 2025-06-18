@@ -8,7 +8,7 @@ Fullstack development - Game Development.<br>🏫 Graduated from Information Tec
 # 💻 My Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react, js, ts, vite, materialui, tailwind, bootstrap, next.js, unity, dotnet, cs, cpp, py, npm" />
+    <img src="https://skillicons.dev/icons?i=react, js, ts, vite, materialui, tailwind, bootstrap, nextjs, unity, dotnet, cs, cpp, py, npm" />
   </a>
 </p>
 # 📊 GitHub Stats:
