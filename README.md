@@ -11,6 +11,7 @@ Fullstack development - Game Development.<br>🏫 Graduated from Information Tec
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,js,ts,vite,materialui,tailwind,bootstrap,nextjs,unity,dotnet,cs,cpp,py,npm" />
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   </a>
 </p>
 
