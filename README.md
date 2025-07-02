@@ -1,6 +1,6 @@
 # Burak Özdemir:
 Fullstack development - Game Development.<br>🏫 Graduated from Information Technologies<br>💬 Email burakozdemir.1223@gmail.com<br>
-
+My portfolio games [itch.io](https://brk12.itch.io/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burak-%C3%B6zdemir-2a8831237/) 
