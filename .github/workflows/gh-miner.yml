@@ -17,7 +17,7 @@ jobs:
         uses: nrysk/gh-miner@v1.0.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          github_login: <BurakOzdemir12>
+          github_login: BurakOzdemir12
 
       - name: Push Picture
         uses: crazy-max/ghaction-github-pages@v4
