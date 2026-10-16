@@ -26,8 +26,8 @@ jobs:
           # ==========================================
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           WAKATIME_API_URL: "https://wakapi.dev/api"
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          PUSH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.WAKA_GITHUB_TOKEN }}
+          PUSH_TOKEN: ${{ secrets.WAKA_GITHUB_TOKEN }}
 
           # ==========================================
           # 2. TARGET SECTION & BRANCH SETTINGS
