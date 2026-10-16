@@ -35,6 +35,15 @@ My portfolio games [itch.io](https://brk12.itch.io/)
 <p align="center" class="">
   
 <!--START_SECTION:waka-->
+
+```txt
+C#                   26 hrs 27 mins        ████████████████████████▓   98.22 %
+Other                12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+Markdown             5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Git Config           4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+JSON                 2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+```
+
 <!--END_SECTION:waka-->
 
 ![BurakOzdemir12's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BurakOzdemir12&theme=react&hide_border=true)
