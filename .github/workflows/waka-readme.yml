@@ -13,11 +13,9 @@ jobs:
       contents: write
 
     steps:
-      # Step 1: Checkout the repo so the action can read and modify README.md
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      # Step 2: Run Waka Readme Stats Action
       - name: Update README with WakaTime / Wakapi Metrics
         uses: anmol098/waka-readme-stats@master
         with:
@@ -25,7 +23,8 @@ jobs:
           # 1. AUTHENTICATION & API ENDPOINTS
           # ==========================================
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          WAKATIME_API_URL: "https://wakapi.dev/api"
+          # Use Wakapi's WakaTime v1 compatibility endpoint
+          WAKATIME_API_URL: "https://wakapi.dev/api/compat/wakatime/v1"
           GH_TOKEN: ${{ secrets.WAKA_GITHUB_TOKEN }}
           PUSH_TOKEN: ${{ secrets.WAKA_GITHUB_TOKEN }}
 
@@ -40,10 +39,10 @@ jobs:
           # 3. METRICS VISIBILITY FLAGS
           # ==========================================
           SHOW_TOTAL_CODE_TIME: "True"
-          SHOW_PROFILE_VIEWS: "False"       # Set to False to prevent conflicts with your existing visitor counter
+          SHOW_PROFILE_VIEWS: "False"
           SHOW_LINES_OF_CODE: "True"
-          SHOW_AI_CODE_TIME: "False"        # Wakapi does not support AI coding endpoints
-          SHOW_AI_CODING: "False"           # Wakapi does not support AI coding endpoints
+          SHOW_AI_CODE_TIME: "False"
+          SHOW_AI_CODING: "False"
           SHOW_COMMIT: "True"
           SHOW_DAYS_OF_WEEK: "True"
           SHOW_LANGUAGE: "True"
