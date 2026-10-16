@@ -35,15 +35,85 @@ My portfolio games [itch.io](https://brk12.itch.io/)
 <p align="center" class="">
   
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-616%20hrs%2049%20mins-blue?style=for-the-badge)
 
-```txt
-C#                   26 hrs 27 mins        ████████████████████████▓   98.22 %
-Other                12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-Markdown             5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-Git Config           4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-JSON                 2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.04%20million%20lines%20of%20code-blue?style=for-the-badge)
+
+**🐱 My GitHub Data** 
+
+> 📦 1.7 MB Used in GitHub's Storage 
+ > 
+> 🏆 1,045 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 15 Public Repositories 
+ > 
+> 🔑 19 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                84 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+🌆 Daytime                484 commits         ███████████░░░░░░░░░░░░░░   44.28 % 
+🌃 Evening                458 commits         ██████████░░░░░░░░░░░░░░░   41.90 % 
+🌙 Night                  67 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   174 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+Tuesday                  203 commits         █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
+Wednesday                183 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+Thursday                 223 commits         █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
+Friday                   198 commits         █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
+Saturday                 84 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Sunday                   28 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Istanbul
+
+💬 Programming Languages: 
+C#                       21 hrs 1 mins       ████████████████████████░   94.02 % 
+Markdown                 0 hrs 43 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Json                     0 hrs 24 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Git config               0 hrs 5 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+INI                      0 hrs 4 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+
+🔥 Editors: 
+Vs code                  17 hrs 22 mins      ███████████████████░░░░░░   77.71 % 
+Antigravity desktop      4 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
+Vscode                   0 hrs 28 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+
+🐱‍💻 Projects: 
+GunStoreTidyUp           22 hrs 21 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  22 hrs 21 mins      █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in C#** 
+
+```text
+C#                       13 repos            ██████████░░░░░░░░░░░░░░░   40.62 % 
+JavaScript               10 repos            ████████░░░░░░░░░░░░░░░░░   31.25 % 
+TypeScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+ShaderLab                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/BurakOzdemir12/BurakOzdemir12/main/assets/bar_graph.png)
+
+
+ Last Updated on 16/10/2026 08:09:25 UTC
 <!--END_SECTION:waka-->
 
 ![BurakOzdemir12's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BurakOzdemir12&theme=react&hide_border=true)
