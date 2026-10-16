@@ -1,8 +1,10 @@
 name: Waka Readme
 
 on:
+  # Allows triggering the workflow manually from the GitHub Actions tab
   workflow_dispatch:
   schedule:
+    # Runs automatically every day at 00:00 UTC
     - cron: "0 0 * * *"
 
 jobs:
@@ -10,8 +12,141 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     permissions:
+      # Required to allow the action to commit and push changes to the repository
       contents: write
+
     steps:
-      - uses: athul/waka-readme@master
+      - name: Update README with WakaTime / Wakapi Metrics
+        uses: anmol098/waka-readme-stats@master
         with:
+          # ==========================================
+          # 1. AUTHENTICATION & API ENDPOINTS
+          # ==========================================
+          # Your Wakapi / WakaTime API Key stored in repository secrets
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+
+          # Custom WakaTime-compatible API endpoint (Wakapi server URL)
+          WAKATIME_API_URL: "https://wakapi.dev/api"
+
+          # GitHub token used to fetch repository, commit, and profile statistics
+          # Tip: Use a Personal Access Token (PAT) with 'repo' and 'user' scopes for full private repo & short info metrics
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+          # Token used specifically for git push operations (prevents polluting your personal contribution graph)
+          PUSH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+          # ==========================================
+          # 2. TARGET SECTION & BRANCH SETTINGS
+          # ==========================================
+          # Matches <!--START_SECTION:waka--> and <!--END_SECTION:waka--> in your README.md
+          SECTION_NAME: "waka"
+
+          # Branch to fetch the README from (leave empty to use the default branch)
+          PULL_BRANCH_NAME: ""
+
+          # Branch to push the updated README to (leave empty to use the default branch)
+          PUSH_BRANCH_NAME: ""
+
+          # ==========================================
+          # 3. METRICS VISIBILITY FLAGS (ALL ENABLED)
+          # ==========================================
+          # Show all-time total coding time badge at the top
+          SHOW_TOTAL_CODE_TIME: "True"
+
+          # Show repository/profile visitor count badge
+          SHOW_PROFILE_VIEWS: "True"
+
+          # Show total lines of code written across all repositories badge
+          SHOW_LINES_OF_CODE: "True"
+
+          # Show all-time AI coding time badge (hidden automatically if no data exists)
+          SHOW_AI_CODE_TIME: "True"
+
+          # Show weekly AI coding breakdown and insights (Set to "False" if Wakapi does not track AI stats)
+          SHOW_AI_CODING: "True"
+
+          # Show time-of-day productivity breakdown (Morning, Daytime, Evening, Night)
+          SHOW_COMMIT: "True"
+
+          # Show most productive days of the week based on commits
+          SHOW_DAYS_OF_WEEK: "True"
+
+          # Show programming languages breakdown from Wakapi
+          SHOW_LANGUAGE: "True"
+
+          # Show operating systems breakdown (e.g., Windows, Linux, macOS)
+          SHOW_OS: "True"
+
+          # Show active projects worked on this week
+          SHOW_PROJECTS: "True"
+
+          # Show code editors / IDEs used (e.g., VS Code, Rider, Unity, Visual Studio)
+          SHOW_EDITORS: "True"
+
+          # Show your current local timezone
+          SHOW_TIMEZONE: "True"
+
+          # Show dominant languages/frameworks across your GitHub repositories
+          SHOW_LANGUAGE_PER_REPO: "True"
+
+          # Show short GitHub account facts (contributions, storage used, public/private repo count)
+          SHOW_SHORT_INFO: "True"
+
+          # Generate and display a quarterly Lines of Code (LOC) timeline graph image
+          SHOW_LOC_CHART: "True"
+
+          # Show the exact date and time when the metrics were last updated
+          SHOW_UPDATED_DATE: "True"
+
+          # ==========================================
+          # 4. VISUAL STYLING & PROGRESS BAR OPTIONS
+          # ==========================================
+          # Language locale for metric titles ("en", "tr", "de", "fr", "es", etc.)
+          LOCALE: "en"
+
+          # Date format used when SHOW_UPDATED_DATE is enabled
+          UPDATED_DATE_FORMAT: "%d/%m/%Y %H:%M:%S"
+
+          # Shield badge visual style ("flat", "flat-square", "plastic", "for-the-badge", "social")
+          BADGE_STYLE: "for-the-badge"
+
+          # Progress bar rendering mode ("text" for Unicode blocks, "svg" for graphical SVG bars)
+          BAR_STYLE: "text"
+
+          # Unicode block style when BAR_STYLE is "text" ("1" = █░, "2" = ⣿⣀, "3" = ⬛⬜)
+          SYMBOL_VERSION: "1"
+
+          # SVG bar customization (only active when BAR_STYLE is set to "svg")
+          BAR_COLOR: "#61DAFB"
+          BAR_TRACK_COLOR: "#172F45"
+          BAR_RADIUS: "4"
+          TEXT_PRIMARY_COLOR: "#c9d1d9"
+          TEXT_SECONDARY_COLOR: "#8b949e"
+
+          # ==========================================
+          # 5. REPOSITORY FILTERING & GIT COMMIT CONFIG
+          # ==========================================
+          # Comma-separated list of repository names to exclude from stats (e.g., "test-repo, old-fork")
+          IGNORED_REPOS: ""
+
+          # Maximum number of GitHub repositories to analyze ("0" = unlimited)
+          MAX_REPOS: "0"
+
+          # Commit using your own GitHub identity instead of the default github-actions bot
+          COMMIT_BY_ME: "False"
+
+          # Custom commit message for automated stat updates
+          COMMIT_MESSAGE: "Updated with Dev Metrics"
+
+          # Custom author username and email for commits (leave empty for default bot)
+          COMMIT_USERNAME: ""
+          COMMIT_EMAIL: ""
+
+          # Squash/erase commit history on each update (keep "False" to preserve repo history)
+          COMMIT_SINGLE: "False"
+
+          # Override .gitignore rules when committing generated chart images
+          FORCE_ADD: "False"
+
+          # Enable verbose logging for troubleshooting workflow runs
+          DEBUG_LOGGING: "False"
