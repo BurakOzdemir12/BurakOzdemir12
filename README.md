@@ -78,23 +78,18 @@ Sunday                   29 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Istanbul
 
 💬 Programming Languages: 
-C#                       20 hrs 57 mins      ████████████████████████░   95.82 % 
-Kotlin                   0 hrs 21 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-Markdown                 0 hrs 14 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-XML                      0 hrs 12 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-YAML                     0 hrs 4 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+C#                       20 hrs 57 mins      █████████████████████████   99.93 % 
+Markdown                 0 hrs 0 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Unknown                  0 hrs 0 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Vscode                   20 hrs 58 mins      ████████████████████████░   95.89 % 
-Antigravity-ide          0 hrs 54 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Vscode                   20 hrs 58 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-GunStoreTidyUp           21 hrs 0 mins       ████████████████████████░   96.03 % 
-paper-plugins            0 hrs 51 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-template-pc3d            0 hrs 1 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+GunStoreTidyUp           20 hrs 58 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  21 hrs 52 mins      █████████████████████████   100.00 % 
+Windows                  20 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -114,7 +109,7 @@ ShaderLab                1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BurakOzdemir12/BurakOzdemir12/main/assets/bar_graph.png)
 
 
- Last Updated on 25/10/2026 02:04:38 UTC
+ Last Updated on 26/10/2026 02:05:55 UTC
 <!--END_SECTION:waka-->
 
 ![BurakOzdemir12's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BurakOzdemir12&theme=react&hide_border=true)
