@@ -35,7 +35,7 @@ My portfolio games [itch.io](https://brk12.itch.io/)
 <p align="center" class="">
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-661%20hrs%2050%20mins-blue?style=for-the-badge)
+![Code Time](http://img.shields.io/badge/Code%20Time-661%20hrs%2036%20mins-blue?style=for-the-badge)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.09%20million%20lines%20of%20code-blue?style=for-the-badge)
 
@@ -78,18 +78,18 @@ Sunday                   29 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Istanbul
 
 💬 Programming Languages: 
-C#                       20 hrs 37 mins      █████████████████████████   100.00 % 
+C#                       20 hrs 22 mins      █████████████████████████   100.00 % 
 Markdown                 0 hrs 0 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Vscode                   20 hrs 37 mins      █████████████████████████   100.00 % 
+Vscode                   20 hrs 22 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-GunStoreTidyUp           20 hrs 10 mins      ████████████████████████░   97.85 % 
-DevKit-Workspace         0 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+GunStoreTidyUp           19 hrs 56 mins      ████████████████████████░   97.83 % 
+DevKit-Workspace         0 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 
 💻 Operating System: 
-Windows                  20 hrs 37 mins      █████████████████████████   100.00 % 
+Windows                  20 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -109,7 +109,7 @@ ShaderLab                1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BurakOzdemir12/BurakOzdemir12/main/assets/bar_graph.png)
 
 
- Last Updated on 31/10/2026 03:01:04 UTC
+ Last Updated on 01/11/2026 02:57:10 UTC
 <!--END_SECTION:waka-->
 
 ![BurakOzdemir12's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BurakOzdemir12&theme=react&hide_border=true)
