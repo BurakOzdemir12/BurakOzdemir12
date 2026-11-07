@@ -35,7 +35,7 @@ My portfolio games [itch.io](https://brk12.itch.io/)
 <p align="center" class="">
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-678%20hrs%2017%20mins-blue?style=for-the-badge)
+![Code Time](http://img.shields.io/badge/Code%20Time-683%20hrs%2046%20mins-blue?style=for-the-badge)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.13%20million%20lines%20of%20code-blue?style=for-the-badge)
 
@@ -43,7 +43,7 @@ My portfolio games [itch.io](https://brk12.itch.io/)
 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
-> 🏆 1,160 Contributions in the Year 2026
+> 🏆 1,166 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -54,21 +54,21 @@ My portfolio games [itch.io](https://brk12.itch.io/)
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                90 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-🌆 Daytime                536 commits         ███████████░░░░░░░░░░░░░░   44.41 % 
-🌃 Evening                512 commits         ███████████░░░░░░░░░░░░░░   42.42 % 
-🌙 Night                  69 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+🌞 Morning                90 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+🌆 Daytime                539 commits         ███████████░░░░░░░░░░░░░░   44.44 % 
+🌃 Evening                515 commits         ███████████░░░░░░░░░░░░░░   42.46 % 
+🌙 Night                  69 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   203 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
-Tuesday                  223 commits         █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
-Wednesday                201 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
-Thursday                 247 commits         █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
-Friday                   220 commits         █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
-Saturday                 84 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
-Sunday                   29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Monday                   203 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+Tuesday                  223 commits         █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
+Wednesday                201 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+Thursday                 247 commits         █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
+Friday                   226 commits         █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
+Saturday                 84 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+Sunday                   29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
 ```
 
 
@@ -78,17 +78,17 @@ Sunday                   29 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Istanbul
 
 💬 Programming Languages: 
-C#                       19 hrs 21 mins      █████████████████████████   99.99 % 
+C#                       22 hrs 10 mins      █████████████████████████   99.99 % 
 Unknown                  0 hrs 0 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Vscode                   19 hrs 21 mins      █████████████████████████   100.00 % 
+Vscode                   22 hrs 10 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-GunStoreTidyUp           19 hrs 21 mins      █████████████████████████   100.00 % 
+GunStoreTidyUp           22 hrs 10 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  19 hrs 21 mins      █████████████████████████   100.00 % 
+Windows                  22 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -108,7 +108,7 @@ ShaderLab                1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BurakOzdemir12/BurakOzdemir12/main/assets/bar_graph.png)
 
 
- Last Updated on 06/11/2026 03:58:24 UTC
+ Last Updated on 07/11/2026 03:32:57 UTC
 <!--END_SECTION:waka-->
 
 ![BurakOzdemir12's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BurakOzdemir12&theme=react&hide_border=true)
