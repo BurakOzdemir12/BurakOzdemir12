@@ -35,7 +35,7 @@ My portfolio games [itch.io](https://brk12.itch.io/)
 <p align="center" class="">
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-683%20hrs%2046%20mins-blue?style=for-the-badge)
+![Code Time](http://img.shields.io/badge/Code%20Time-683%20hrs%2032%20mins-blue?style=for-the-badge)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.13%20million%20lines%20of%20code-blue?style=for-the-badge)
 
@@ -78,17 +78,17 @@ Sunday                   29 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Istanbul
 
 💬 Programming Languages: 
-C#                       22 hrs 10 mins      █████████████████████████   99.99 % 
+C#                       21 hrs 56 mins      █████████████████████████   99.99 % 
 Unknown                  0 hrs 0 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Vscode                   22 hrs 10 mins      █████████████████████████   100.00 % 
+Vscode                   21 hrs 56 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-GunStoreTidyUp           22 hrs 10 mins      █████████████████████████   100.00 % 
+GunStoreTidyUp           21 hrs 56 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  22 hrs 10 mins      █████████████████████████   100.00 % 
+Windows                  21 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -108,7 +108,7 @@ ShaderLab                1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BurakOzdemir12/BurakOzdemir12/main/assets/bar_graph.png)
 
 
- Last Updated on 07/11/2026 03:32:57 UTC
+ Last Updated on 08/11/2026 03:01:34 UTC
 <!--END_SECTION:waka-->
 
 ![BurakOzdemir12's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BurakOzdemir12&theme=react&hide_border=true)
