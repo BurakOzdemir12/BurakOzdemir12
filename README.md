@@ -35,15 +35,15 @@ My portfolio games [itch.io](https://brk12.itch.io/)
 <p align="center" class="">
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-724%20hrs%2030%20mins-blue?style=for-the-badge)
+![Code Time](http://img.shields.io/badge/Code%20Time-726%20hrs%2059%20mins-blue?style=for-the-badge)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.18%20million%20lines%20of%20code-blue?style=for-the-badge)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.19%20million%20lines%20of%20code-blue?style=for-the-badge)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
-> 🏆 1,282 Contributions in the Year 2026
+> 🏆 1,299 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -54,21 +54,21 @@ My portfolio games [itch.io](https://brk12.itch.io/)
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                106 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-🌆 Daytime                606 commits         ███████████░░░░░░░░░░░░░░   45.60 % 
-🌃 Evening                543 commits         ██████████░░░░░░░░░░░░░░░   40.86 % 
-🌙 Night                  74 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+🌞 Morning                106 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+🌆 Daytime                607 commits         ███████████░░░░░░░░░░░░░░   45.10 % 
+🌃 Evening                559 commits         ██████████░░░░░░░░░░░░░░░   41.53 % 
+🌙 Night                  74 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   218 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
-Tuesday                  237 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
-Wednesday                218 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
-Thursday                 270 commits         █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
-Friday                   246 commits         █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
-Saturday                 111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
-Sunday                   29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+Monday                   235 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+Tuesday                  237 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
+Wednesday                218 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+Thursday                 270 commits         █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
+Friday                   246 commits         █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
+Saturday                 111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+Sunday                   29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 ```
 
 
@@ -78,17 +78,18 @@ Sunday                   29 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Istanbul
 
 💬 Programming Languages: 
-C#                       23 hrs 49 mins      █████████████████████████   99.15 % 
-Unknown                  0 hrs 12 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+C#                       20 hrs 52 mins      █████████████████████████   98.37 % 
+Unknown                  0 hrs 12 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+Markdown                 0 hrs 9 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 
 🔥 Editors: 
-Vscode                   24 hrs 1 mins       █████████████████████████   100.00 % 
+Vscode                   21 hrs 12 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-GunStoreTidyUp           24 hrs 1 mins       █████████████████████████   100.00 % 
+GunStoreTidyUp           21 hrs 12 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  24 hrs 1 mins       █████████████████████████   100.00 % 
+Windows                  21 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -108,7 +109,7 @@ ShaderLab                1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BurakOzdemir12/BurakOzdemir12/main/assets/bar_graph.png)
 
 
- Last Updated on 23/11/2026 04:28:56 UTC
+ Last Updated on 24/11/2026 07:24:24 UTC
 <!--END_SECTION:waka-->
 
 ![BurakOzdemir12's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BurakOzdemir12&theme=react&hide_border=true)
